@@ -4,6 +4,11 @@
 
 整理加密市场资料，工具。
 
+## 大盘分析
+
+- [whalestats(免费版nansen)](https://www.whalestats.com/)
+
+
 ## k线工具
 
 - [nomics](https://nomics.com/exchanges/bitrue/markets/WOOF_USDT)
@@ -20,8 +25,12 @@
 
 ## 查看项目
 
+- [查找项目](https://vfat.tools/)
 - [sol链项目](https://solanaproject.com/#/projects)
 - [波卡项目](https://www.polkaproject.com/#/)
+- [FTM项目](https://vfat.tools/fantom/)
+
+
 
 
 
