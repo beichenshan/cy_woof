@@ -8,6 +8,8 @@
 
 - [whalestats(免费版nansen)](https://www.whalestats.com/)
 
+- [messari(大盘分析)](https://messari.io/screener/my-screener-DF245D91)
+
 
 ## k线工具
 
