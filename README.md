@@ -50,5 +50,22 @@
 
 
 
+## 每天要常看的5个英文加密市场网站（更快的获取行业信息）
+
+- [加密市场最好的新闻网站之一，每天必看](https://coindesk.com )
+
+- [加密市场最好的新闻网站之一，每天必看](https://theblockcrypto.com )
+
+- [查看项目的TVL锁仓数据分析](https://defillama.com )
+
+- [以太坊L2层TVL数据分析](https://L2beat.com )
+
+- [eth燃烧数据分析网站，可以发现消耗新的增长合约](https://ultrasound.money/)
+
+
+
+
+
+ 
 
 
