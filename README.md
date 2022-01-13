@@ -15,6 +15,9 @@
 
 - [nomics](https://nomics.com/exchanges/bitrue/markets/WOOF_USDT)
 - [avedex](https://avedex.cc/)
+- [dexscreener(涵盖链最多，能够看交易历史)](https://dexscreener.com/)
+
+
 
 ## 账户分析
 - [debank](https://debank.com/)
